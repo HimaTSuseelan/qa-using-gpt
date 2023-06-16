@@ -1,9 +1,8 @@
 chromadb==0.3.26
-fitz==0.0.1.dev2
 frontend==0.0.3
 langchain
 openai
-PyMuPDF==1.22.3
+pymupdf
 PyPDF2
 starlette==0.27.0
 tiktoken==0.4.0
