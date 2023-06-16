@@ -18,7 +18,7 @@ from langchain.docstore.document import Document
 
 st.title("Q&A Chat Bot using GPT3")
 
-# openai.api_key = os.getenv('OPEN_AI_API_KEY')
+openai.api_key = os.getenv('OPEN_AI_API_KEY')
 # export OPEN_AI_API_KEY = "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"
 openai.api_key = "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"
 
